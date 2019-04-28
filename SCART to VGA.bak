@@ -31,7 +31,7 @@ U 1 1 5CBCEC15
 P 7100 3750
 F 0 "J4" H 7100 4617 50  0000 C CNN
 F 1 "DB15_Female_HighDensity" H 7100 4526 50  0000 C CNN
-F 2 "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm" H 6150 4150 50  0001 C CNN
+F 2 "Connector_Dsub:DSUB-15-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm" H 6150 4150 50  0001 C CNN
 F 3 " ~" H 6150 4150 50  0001 C CNN
 	1    7100 3750
 	1    0    0    -1  
@@ -53,7 +53,7 @@ U 1 1 5CBD0A70
 P 7100 4850
 F 0 "J5" H 6820 4783 50  0000 R CNN
 F 1 "AudioJack3" H 6820 4874 50  0000 R CNN
-F 2 "SJ-2523-SMT-TR:CUI_SJ-2523-SMT-TR" H 7100 4850 50  0001 C CNN
+F 2 "SJ-3523-SMT-TR:CUI_SJ-3523-SMT-TR" H 7100 4850 50  0001 C CNN
 F 3 "~" H 7100 4850 50  0001 C CNN
 	1    7100 4850
 	-1   0    0    1   
