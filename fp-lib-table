@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SCART-to-VGA)(type KiCad)(uri ${KIPRJMOD}/SCART-to-VGA.pretty)(options "")(descr ""))
+)
