@@ -1,12 +1,20 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.0)-1*
+<<<<<<< HEAD
 G04 #@! TF.CreationDate,2019-06-24T23:47:50-04:00*
+=======
+G04 #@! TF.CreationDate,2019-06-17T15:19:32-04:00*
+>>>>>>> c81aab9f46036ea00f0f587d8c2147020808239d
 G04 #@! TF.ProjectId,SCART to VGA,53434152-5420-4746-9f20-5647412e6b69,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Legend,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+<<<<<<< HEAD
 G04 Created by KiCad (PCBNEW (5.1.0)-1) date 2019-06-24 23:47:50*
+=======
+G04 Created by KiCad (PCBNEW (5.1.0)-1) date 2019-06-17 15:19:32*
+>>>>>>> c81aab9f46036ea00f0f587d8c2147020808239d
 %MOMM*%
 %LPD*%
 G04 APERTURE LIST*
