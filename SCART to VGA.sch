@@ -37,7 +37,7 @@ F 3 " ~" H 6150 4150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SCART_to_DVI-A_Compact-eagle-import:LM1881 U1
+L SCART-to-VGA-rescue:LM1881-SCART_to_DVI-A_Compact-eagle-import U1
 U 1 1 5CBCF61B
 P 5300 2150
 F 0 "U1" H 5300 2836 59  0000 C CNN

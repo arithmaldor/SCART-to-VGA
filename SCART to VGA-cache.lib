@@ -299,11 +299,11 @@ X ~ 2 0 -100 40 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# SCART_to_DVI-A_Compact-eagle-import_LM1881
+# SCART-to-VGA-rescue_LM1881-SCART_to_DVI-A_Compact-eagle-import
 #
-DEF SCART_to_DVI-A_Compact-eagle-import_LM1881 ~ 0 40 Y Y 1 L N
+DEF SCART-to-VGA-rescue_LM1881-SCART_to_DVI-A_Compact-eagle-import ~ 0 40 Y Y 1 L N
 F0 "" -500 550 59 H V L BNN
-F1 "SCART_to_DVI-A_Compact-eagle-import_LM1881" -500 -600 59 H V L BNN
+F1 "SCART-to-VGA-rescue_LM1881-SCART_to_DVI-A_Compact-eagle-import" -500 -600 59 H V L BNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW

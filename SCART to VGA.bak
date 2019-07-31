@@ -53,7 +53,7 @@ U 1 1 5CBD0A70
 P 7100 4850
 F 0 "J5" H 6820 4783 50  0000 R CNN
 F 1 "AudioJack3" H 6820 4874 50  0000 R CNN
-F 2 "SJ-3523-SMT-TR:CUI_SJ-3523-SMT-TR" H 7100 4850 50  0001 C CNN
+F 2 "SJ1-3533NG:CUI_SJ1-3533NG" H 7100 4850 50  0001 C CNN
 F 3 "~" H 7100 4850 50  0001 C CNN
 	1    7100 4850
 	-1   0    0    1   
@@ -246,7 +246,6 @@ Wire Wire Line
 NoConn ~ 2050 3100
 NoConn ~ 2050 4700
 NoConn ~ 2050 4900
-NoConn ~ 3250 4200
 NoConn ~ 3250 4000
 NoConn ~ 3250 3800
 NoConn ~ 3250 3400
@@ -287,4 +286,26 @@ NoConn ~ 6800 3950
 NoConn ~ 6800 3850
 Text GLabel 6400 3650 0    50   Input ~ 0
 GND
+$Comp
+L Connector:Conn_01x02_Male J6
+U 1 1 5CC4DF98
+P 3950 4400
+F 0 "J6" V 4104 4212 50  0000 R CNN
+F 1 "Voltage Select" V 4013 4212 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3950 4400 50  0001 C CNN
+F 3 "~" H 3950 4400 50  0001 C CNN
+	1    3950 4400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3250 4200 3950 4200
+Wire Wire Line
+	4050 4200 4750 4200
+Text GLabel 4750 4200 2    50   Input ~ 0
+SCART_VOLTAGE
+Text GLabel 6850 1300 2    50   Input ~ 0
+SCART_VOLTAGE
+Wire Wire Line
+	6850 1300 6200 1300
+Connection ~ 6200 1300
 $EndSCHEMATC
