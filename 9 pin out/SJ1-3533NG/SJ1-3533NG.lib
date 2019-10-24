@@ -1,0 +1,46 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# SJ1-3533NG
+#
+DEF SJ1-3533NG J 0 40 Y N 1 L N
+F0 "J" -400 300 50 H V L BNN
+F1 "SJ1-3533NG" -400 -400 50 H V L BNN
+F2 "CUI_SJ1-3533NG" 0 0 50 H I L BNN
+F3 "Unavailable" 0 0 50 H I L BNN
+F4 "SJ1 Series 3.5 mm 12 V Right Angle Through Hole Isolated Stereo Audio Jack" 0 0 50 H I L BNN
+F5 "SJ1-3533NG" 0 0 50 H I L BNN
+F6 "None" 0 0 50 H I L BNN
+F7 "https://www.cui.com/product/interconnect/audio-connectors/3.5-mm-jacks/sj1-353xng-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM" 0 0 50 H I L BNN
+F8 "CUI Inc." 0 0 50 H I L BNN
+F9 "None" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -400 200 -400 -200 N
+P 2 0 0 10 -400 -200 400 -200 N
+P 2 0 0 10 400 -200 400 -100 N
+P 2 0 0 10 400 -100 400 0 N
+P 2 0 0 10 400 0 400 100 N
+P 2 0 0 10 400 100 400 200 N
+P 2 0 0 10 400 200 -400 200 N
+P 2 0 0 6 400 100 -250 100 N
+P 2 0 0 6 -250 100 -250 50 N
+P 2 0 0 6 -250 50 -225 50 N
+P 2 0 0 6 -225 50 -225 -75 N
+P 2 0 0 6 -225 -75 -275 -75 N
+P 2 0 0 6 -275 -75 -275 50 N
+P 2 0 0 6 -275 50 -250 50 N
+P 2 0 0 6 400 0 -75 0 N
+P 2 0 0 6 -75 0 -125 -50 N
+P 2 0 0 6 -125 -50 -175 0 N
+P 2 0 0 6 400 -100 0 -100 N
+P 2 0 0 6 0 -100 -50 -50 N
+P 2 0 0 6 -50 -50 -100 -100 N
+X 1 1 600 100 200 L 40 40 0 0 P 
+X 2 2 600 -100 200 L 40 40 0 0 P 
+X 3 3 600 0 200 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
