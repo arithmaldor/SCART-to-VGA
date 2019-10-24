@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SCART-to-VGA-rescue)(type Legacy)(uri "${KIPRJMOD}/SCART to VGA-rescue.lib")(options "")(descr ""))
+)
